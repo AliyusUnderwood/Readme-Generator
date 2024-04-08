@@ -6,6 +6,7 @@
 - [Goals](#goals)
 - [Technologies Used](#technologies-used)
 - [Screen Capture](#screen-capture)
+- [Walkthrough](#walkthrough)
 - [How To Use](#how-to-use)
 
 ## Overview
@@ -25,6 +26,9 @@ Allow users when making a project on Github, to be able to create a high-quality
 
 ## Screen Capture
 ![](Main/gif/Untitled_%20Apr%208,%202024%203_40%20PM%20(2).gif)
+
+## Walkthrough
+[Tutorial on how to use this app](https://drive.google.com/file/d/1wT-6RWzPXbA14gAiTmWwpVR7gkCC01Bh/view?usp=drive_link)
 
 ## How To Use
   1. Open integrated terminal in personal IDE.
