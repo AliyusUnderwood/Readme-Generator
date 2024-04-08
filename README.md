@@ -34,4 +34,4 @@ Allow users when making a project on Github, to be able to create a high-quality
   1. Open integrated terminal in personal IDE.
   2. Run ```node index.js```.
   3. Answer the prompts that follow.
-  4. A sampleREADME.md will be generated outside Main folder.
+  4. A sampleREADME.md will be generated inside Main folder.
